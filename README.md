@@ -1,82 +1,38 @@
-<!-- ENCABEZADO / BANNERS -->
 <div align="center">
-  <!-- Banner chulo de programación -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/banner.gif" width="800" alt="Banner Animado" style="border-radius: 15px;" />
+  <img src="banner.jpg" width="800" alt="Banner" style="border-radius: 15px;" />
   <br><br>
 
-  <!-- El video del memoji original (se mantiene) -->
   <video src="https://github.com/dariocano020/dariocano020/raw/main/memoji.mp4" autoplay loop muted playsinline width="180"></video>
 
-  <h1>¡Hola! Soy Darío Caño 👨‍💻</h1>
-  <h3>Estudiante de DAW | Desarrollador Full Stack | Amante de Apple & Linux</h3>
+  <h1>¡Hola! Soy Darío Caño <img src="waving.gif" width="40" alt="Hola" align="center" /></h1>
+  <h3>Estudiante de DAW | Desarrollador Full Stack | Ecosistema Apple</h3>
 </div>
-
----
-
-<!-- SOBRE MI + MEMOJI SALUDANDO -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35" /> 
-  <h2>Sobre Mí</h2>
-</div>
-
-<p align="center">
-  <!-- Memoji de Apple diciendo Hola -->
-  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="120" alt="Memoji Waving" align="right" />
-  
-  Soy un estudiante de 2º año en el <b>Grado Superior de Desarrollo de Aplicaciones Web (DAW)</b> en el <b>IES FERNANDO III</b> (Martos, España). Me apasiona el código limpio, la arquitectura estructurada y mantener un control total sobre mis herramientas.
-  <br><br>
-  🍏 <b>Entorno:</b> Disfruto combinando el poder y libertad de <b>Linux</b> con la estética y fluidez del ecosistema <b>Apple</b>.<br>
-  🚀 <b>Objetivo:</b> Convertirme en un desarrollador <b>Full Stack</b> capaz de construir productos de principio a fin.<br>
-  🎬 <b>Pasiones:</b> Además de la programación, me encanta mantenerme activo con el deporte y soy un gran aficionado a la <b>edición de vídeo</b>.
-</p>
 
 <br>
 
----
-
-<!-- STACK TECNOLÓGICO -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35" />
+  <h2>Sobre Mí</h2>
+</div>
+
+Soy un estudiante de 2º año en el **Grado Superior de Desarrollo de Aplicaciones Web (DAW)** en el **IES FERNANDO III** (Martos, España). Me apasiona el código limpio, la arquitectura estructurada y mantener un control total sobre mis herramientas de trabajo.
+
+- 🍏 **Entorno:** Disfruto combinando el poder y libertad de **Linux** con la estética y fluidez del ecosistema **Apple**.
+- 🚀 **Objetivo:** Convertirme en un desarrollador **Full Stack** capaz de construir productos de principio a fin.
+- 🎬 **Pasiones:** Además de la programación, me encanta mantenerme activo con el deporte y soy un gran aficionado a la **edición de vídeo**.
+
+<br>
+
+<div align="center">
   <h2>Stack Tecnológico</h2>
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,firebase,apple,c,css,html,github,linux,mysql,notion,vscode&theme=dark&perline=7" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,firebase,apple,c,css,html,github,linux,mysql,notion,vscode&theme=dark&perline=7" alt="Stack Tecnológico" />
 </p>
 
----
+<br>
 
-<!-- MODO HACKER (GIF super estable alojado en GitHub) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="35" />
-  <h2>Modo Hacker: ON</h2>
-</div>
-
-<p align="center">
-  <!-- GIF Estético de Programación -->
-  <img src="https://raw.githubusercontent.com/aarnphm/aarnphm/master/assets/coder.gif" width="600" style="border-radius: 15px;" alt="Programador" />
-</p>
-
----
-
-<!-- TROFEOS VISUALES (Reemplazo de la Serpiente) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" />
-  <h2>Logros Destacados</h2>
-</div>
-
-<p align="center">
-  <!-- Trofeos animados en base a la actividad del usuario -->
-  <a href="https://github.com/dariocano020">
-    <img src="https://github-profile-trophy.vercel.app/?username=dariocano020&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos GitHub" />
-  </a>
-</p>
-
----
-
-<!-- BOTONES SOCIALES ESTÉTICOS (Movidos al final) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" />
   <h2>¡Conectemos!</h2>
 </div>
 
