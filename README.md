@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Actualmente estoy estudiando 1DAW .<br>🎯 Objetivos: Full Stack y desarrollo de apliciones.</p>
+<p align="left">📚 Actualmente estoy estudiando 2DAW .<br>🎯 Objetivos: Full Stack y desarrollo de apliciones.</p>
 
 ###
 
