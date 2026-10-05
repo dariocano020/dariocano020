@@ -30,6 +30,10 @@ Soy un estudiante de 2º año en el **Grado Superior de Desarrollo de Aplicacion
 - 🚀 **Objetivo:** Convertirme en un desarrollador **Full Stack** imparable.
 - 🎬 **Pasiones:** Además de picar código, me encanta el deporte y soy un gran aficionado a la **edición de vídeo**.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnJuOTNzd2R6eXFncDBoem90c3VpbDdya3M1NHNnMHE1b2lsZWZrZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WsJzXF8M8tl6w/giphy.gif" width="300" style="border-radius: 10px;" alt="GIF chulo" />
+</p>
+
 <br>
 
 <div align="center">
