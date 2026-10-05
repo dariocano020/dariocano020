@@ -1,10 +1,10 @@
-[README_Profile.md](https://github.com/user-attachments/files/33069095/README_Profile.md)
+[README_Profile.md](https://github.com/user-attachments/files/33069168/README_Profile.md)
 <div align="center">
-  <!-- GIF estable alojado en Giphy: Chico (Memoji) programando en un Mac -->
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Chico programando en Mac" />
+  <!-- Memoji de chico programando en un MacBook -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284156-2e9b98bc-2dcb-494b-ac6f-87034509dc79.gif" width="200" alt="Chico programando en Mac" />
 
-  <h1>¡Hola! Soy Darío Caño 👋</h1>
-  <h3>Estudiante de DAW | Desarrollador Full Stack en proceso</h3>
+  <h1>¡Hola! Soy Darío Caño </h1>
+  <h3>Estudiante de DAW | Desarrollador Full Stack | Ecosistema Apple</h3>
 </div>
 
 <p align="center">
@@ -23,10 +23,11 @@
 
 ### 👨‍💻 Sobre Mí
 
-Soy un estudiante de 2º año en el **Grado Superior de Desarrollo de Aplicaciones Web (DAW)** en el **IES FERNANDO III** (Martos, España). Me apasiona resolver problemas mediante código y construir aplicaciones modernas.
+Soy un estudiante de 2º año en el **Grado Superior de Desarrollo de Aplicaciones Web (DAW)** en el **IES FERNANDO III** (Martos, España). Me apasiona el diseño estructurado, el código limpio y la experiencia de usuario.
 
+- 🍏 **Entorno:** Gran entusiasta de los productos de Apple y su estética de diseño a la hora de trabajar.
 - 🚀 **Objetivo:** Convertirme en un desarrollador **Full Stack** profesional.
-- 🏋🏻‍♂️ **Aficiones:** Me encanta mantenerme activo haciendo **deporte** y soy un entusiasta de la **edición de vídeo** 🎬.
+- 🏋🏻‍♂️ **Aficiones:** Me encanta mantenerme activo con el **deporte** y soy un apasionado de la **edición de vídeo** 🎬.
 - 💡 **Actitud:** Siempre dispuesto a aprender nuevas tecnologías y enfrentarme a retos complejos.
 
 ---
@@ -34,8 +35,12 @@ Soy un estudiante de 2º año en el **Grado Superior de Desarrollo de Aplicacion
 ### 🛠️ Mi Stack Tecnológico
 
 <p align="center">
-  <!-- Utilizamos una sola imagen muy estable para todos los iconos -->
   <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,firebase,apple,c,css,html,github,linux,mysql,notion,vscode&theme=dark" alt="Tecnologías" />
+</p>
+
+<!-- Un GIF estético de programación en Mac para dar más vida al entorno Apple -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/44/89/3e/44893e36e6eb132588cf4649f826ecf1.gif" width="600" alt="Apple coding aesthetic" style="border-radius: 15px;" />
 </p>
 
 ---
@@ -43,7 +48,6 @@ Soy un estudiante de 2º año en el **Grado Superior de Desarrollo de Aplicacion
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <!-- Añadida caché para evitar que los servidores bloqueen las imágenes SVG -->
   <img src="https://github-readme-stats.vercel.app/api?username=dariocano020&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dariocano020&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
@@ -56,11 +60,16 @@ Soy un estudiante de 2º año en el **Grado Superior de Desarrollo de Aplicacion
 
 ### 🐍 Mis Contribuciones (Snake)
 
+<!-- IMPORTANTE: 
+La imagen de la serpiente está oculta (comentada) porque hasta que no ejecutes la GitHub Action (snake.yml), el enlace estará roto y se verá un icono de error.
+Cuando la ejecutes y funcione, simplemente borra estas etiquetas de comentarios para que aparezca. -->
+
+<!--
 <p align="center">
-  <!-- Esta imagen aparecerá sola una vez configures la Action del snake.yml -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake.svg">
     <img alt="Snake animation" src="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+-->
