@@ -1,76 +1,95 @@
+<!-- ENCABEZADO / BANNERS -->
 <div align="center">
-  <video src="https://github.com/dariocano020/dariocano020/raw/main/memoji.mp4" autoplay loop muted playsinline width="200"></video>
+  <!-- Banner chulo de programación -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/banner.gif" width="800" alt="Banner Animado" style="border-radius: 15px;" />
+  <br><br>
+
+  <!-- El video del memoji original (se mantiene) -->
+  <video src="https://github.com/dariocano020/dariocano020/raw/main/memoji.mp4" autoplay loop muted playsinline width="180"></video>
 
   <h1>¡Hola! Soy Darío Caño 👨‍💻</h1>
   <h3>Estudiante de DAW | Desarrollador Full Stack | Amante de Apple & Linux</h3>
-
-  <p align="center">
-    <a href="mailto:dariocano2005@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://instagram.com/darioo_020" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://github.com/dariocano020" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
 </div>
 
-<br>
+---
 
+<!-- SOBRE MI + MEMOJI SALUDANDO -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35" /> 
   <h2>Sobre Mí</h2>
 </div>
 
-Soy un estudiante de 2º año en el **Grado Superior de Desarrollo de Aplicaciones Web (DAW)** en el **IES FERNANDO III** (Martos, España). Me apasiona el código limpio y el control total sobre mis herramientas de trabajo.
-
-- 🍏 **Entorno:** Disfruto combinando el poder y libertad de **Linux** con la estética del ecosistema **Apple**.
-- 🚀 **Objetivo:** Convertirme en un desarrollador **Full Stack** imparable.
-- 🎬 **Pasiones:** Además de picar código, me encanta el deporte y soy un gran aficionado a la **edición de vídeo**.
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnJuOTNzd2R6eXFncDBoem90c3VpbDdya3M1NHNnMHE1b2lsZWZrZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WsJzXF8M8tl6w/giphy.gif" width="300" style="border-radius: 10px;" alt="GIF chulo" />
+  <!-- Memoji de Apple diciendo Hola -->
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="120" alt="Memoji Waving" align="right" />
+  
+  Soy un estudiante de 2º año en el <b>Grado Superior de Desarrollo de Aplicaciones Web (DAW)</b> en el <b>IES FERNANDO III</b> (Martos, España). Me apasiona el código limpio, la arquitectura estructurada y mantener un control total sobre mis herramientas.
+  <br><br>
+  🍏 <b>Entorno:</b> Disfruto combinando el poder y libertad de <b>Linux</b> con la estética y fluidez del ecosistema <b>Apple</b>.<br>
+  🚀 <b>Objetivo:</b> Convertirme en un desarrollador <b>Full Stack</b> capaz de construir productos de principio a fin.<br>
+  🎬 <b>Pasiones:</b> Además de la programación, me encanta mantenerme activo con el deporte y soy un gran aficionado a la <b>edición de vídeo</b>.
 </p>
 
 <br>
 
+---
+
+<!-- STACK TECNOLÓGICO -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="35" />
   <h2>Stack Tecnológico</h2>
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,firebase,apple,c,css,html,github,linux,mysql,notion,vscode&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,firebase,apple,c,css,html,github,linux,mysql,notion,vscode&theme=dark&perline=7" alt="Tecnologias" />
 </p>
 
-<br>
+---
 
+<!-- MODO HACKER (GIF super estable alojado en GitHub) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="35" />
   <h2>Modo Hacker: ON</h2>
 </div>
 
 <p align="center">
-  <!-- GIF de Linux/Hacker aesthetic -->
-  <img src="https://media.giphy.com/media/yqVSHxH21U45a/giphy.gif" width="600" style="border-radius: 10px;" alt="Linux Terminal Matrix" />
+  <!-- GIF Estético de Programación -->
+  <img src="https://raw.githubusercontent.com/aarnphm/aarnphm/master/assets/coder.gif" width="600" style="border-radius: 15px;" alt="Programador" />
 </p>
 
-<br>
+---
 
+<!-- TROFEOS VISUALES (Reemplazo de la Serpiente) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" />
-  <h2>Actividad Reciente</h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" />
+  <h2>Logros Destacados</h2>
 </div>
 
-<!-- Snake Animation -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- Trofeos animados en base a la actividad del usuario -->
+  <a href="https://github.com/dariocano020">
+    <img src="https://github-profile-trophy.vercel.app/?username=dariocano020&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos GitHub" />
+  </a>
+</p>
+
+---
+
+<!-- BOTONES SOCIALES ESTÉTICOS (Movidos al final) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" />
+  <h2>¡Conectemos!</h2>
+</div>
+
+<p align="center">
+  <a href="mailto:dariocano2005@gmail.com">
+    <img src="https://img.shields.io/badge/Hablemos_por_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/darioo_020" target="_blank">
+    <img src="https://img.shields.io/badge/Sígueme_en_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/dariocano020" target="_blank">
+    <img src="https://img.shields.io/badge/Mi_código_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
