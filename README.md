@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Apple Memoji Programando" />
+  <video src="https://github.com/dariocano020/dariocano020/raw/main/memoji.mp4" autoplay loop muted playsinline width="200"></video>
 
   <h1>¡Hola! Soy Darío Caño 👨‍💻</h1>
   <h3>Estudiante de DAW | Desarrollador Full Stack | Amante de Apple & Linux</h3>
