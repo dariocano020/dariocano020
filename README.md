@@ -1,52 +1,18 @@
+<!-- Cabecera del Perfil -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="120" alt="Memoji Developer" />
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" alt="Memoji GIF" />
-  
-  <h1>¡Hola, soy Darío Caño! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand" width="40" height="40" /></h1>
-  
-  <p>
-    <em>Estudiante de DAW • Desarrollador en proceso • Entusiasta del deporte y vídeo</em>
-  </p>
-  
-</div>
+  <h1>¡Hola, soy Darío Caño! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="40" alt="Waving" /></h1>
 
----
-
-### 👨🏻‍🎓 Sobre Mí
-
-* 💻 Estudiante de 2º año en el **Grado Superior de DAW (Desarrollo de Aplicaciones Web)**.
-* 🏫 Estudiando en el **IES FERNANDO III** (Martos).
-* 🎯 **Mi objetivo:** Convertirme en un desarrollador **Full Stack** capaz de crear aplicaciones increíbles.
-* 💡 **Mis aficiones:** Me apasiona el mundo de la **programación**, mantenerme activo con el **deporte** 🏋🏻‍♂️ y la **edición de vídeo** 🎬.
-
----
-
-### 🛠️ Mi Stack Tecnológico
-
-<div align="center">
-  <p>Tecnologías, lenguajes y herramientas con las que trabajo:</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,firebase,apple,c,css,html,github,linux,mysql,notion,vscode&perline=7" alt="Mis Skills" />
+  <!-- Texto Animado (Typing Effect) -->
+  <a href="https://github.com/dariocano020">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Estudiante+de+DAW+en+IES+FERNANDO+III;Desarrollador+Full+Stack+en+proceso;Apasionado+del+deporte+y+la+edición+de+vídeo;Siempre+dispuesto+a+aprender" alt="Typing SVG" />
   </a>
 </div>
 
----
+<br/>
 
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dariocano020&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333" alt="Estadísticas de Darío" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dariocano020&theme=transparent&hide_border=true&title_color=2563EB&text_color=333333&sideLabels=333333&sideNums=2563EB&fire=2563EB&ring=2563EB" alt="Racha en GitHub" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariocano020&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=333333" alt="Lenguajes Top" width="48%" />
-</div>
-
----
-
-### 📫 ¿Hablamos?
-
+<!-- Redes Sociales y Contacto -->
 <div align="center">
   <a href="mailto:dariocano2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -54,10 +20,58 @@
   <a href="https://instagram.com/darioo_020" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://github.com/dariocano020" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
-<br>
+<br/>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="25" /> Sobre Mí
+
+Soy un estudiante de 2º año en el **Grado Superior de Desarrollo de Aplicaciones Web (DAW)** en el **IES FERNANDO III** (Martos, España). Me considero una persona curiosa, en constante evolución y enfocada en crear soluciones útiles y eficientes.
+
+* 🎯 **Mi objetivo:** Consolidarme como desarrollador **Full Stack**.
+* 🧠 **Intereses:** La arquitectura de software, nuevas tecnologías, el **deporte** 🏋🏻‍♂️ y la **edición audiovisual** 🎬.
+* 🚀 **Filosofía:** Escribir código limpio, colaborar y mejorar un 1% todos los días.
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="25" /> Stack Tecnológico
+
+He estructurado mis herramientas principales para que sean totalmente compatibles con el modo oscuro y claro de GitHub:
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="footer" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,firebase,apple,c,css,html,github,linux,mysql,notion,vscode&perline=7&theme=dark" alt="Mis Skills" />
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> Estadísticas en Tiempo Real
+
+Para que este perfil esté realmente "vivo", aquí tienes mis estadísticas extraídas directamente de los servidores de GitHub (tema oscuro, premium y altamente compatible):
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dariocano020&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dariocano020&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariocano020&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+</div>
+
+---
+
+### 🐍 Actividad de Contribuciones (Snake Graph)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
