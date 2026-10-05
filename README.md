@@ -1,4 +1,3 @@
-[README_Profile.md](https://github.com/user-attachments/files/33069168/README_Profile.md)
 <div align="center">
   <!-- Memoji de chico programando en un MacBook -->
   <img src="https://user-images.githubusercontent.com/74038190/212284156-2e9b98bc-2dcb-494b-ac6f-87034509dc79.gif" width="200" alt="Chico programando en Mac" />
@@ -60,11 +59,6 @@ Soy un estudiante de 2º año en el **Grado Superior de Desarrollo de Aplicacion
 
 ### 🐍 Mis Contribuciones (Snake)
 
-<!-- IMPORTANTE: 
-La imagen de la serpiente está oculta (comentada) porque hasta que no ejecutes la GitHub Action (snake.yml), el enlace estará roto y se verá un icono de error.
-Cuando la ejecutes y funcione, simplemente borra estas etiquetas de comentarios para que aparezca. -->
-
-<!--
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake-dark.svg">
@@ -72,4 +66,3 @@ Cuando la ejecutes y funcione, simplemente borra estas etiquetas de comentarios 
     <img alt="Snake animation" src="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
--->
