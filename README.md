@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="professional_coder.gif" width="450" alt="Professional Coder" style="border-radius: 10px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Professional Coder" style="border-radius: 10px;" />
   <br><br>
 
   <video src="https://github.com/dariocano020/dariocano020/raw/main/memoji.mp4" autoplay loop muted playsinline width="180"></video>
