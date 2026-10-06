@@ -5,35 +5,66 @@
   <video src="https://github.com/dariocano020/dariocano020/raw/main/memoji.mp4" autoplay loop muted playsinline width="180"></video>
 
   <h1>¡Hola! Soy Darío Caño <img src="waving.gif" width="40" alt="Hola" align="center" /></h1>
-  <h3>Estudiante de DAW | Desarrollador Full Stack | Ecosistema Apple</h3>
+  
+  <a href="https://github.com/dariocano020">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EA4335&center=true&vCenter=true&width=500&lines=Estudiante+de+DAW+👨‍💻;Desarrollador+Full+Stack+🚀;Apasionado+por+Apple+y+Linux+🍏🐧" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <h2>Sobre Mí</h2>
+  <img src="coding_aesthetic.gif" width="600" style="border-radius: 10px;" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🌟 Sobre Mí</h2>
 </div>
 
 Soy un estudiante de 2º año en el **Grado Superior de Desarrollo de Aplicaciones Web (DAW)** en el **IES FERNANDO III** (Martos, España). Me apasiona el código limpio, la arquitectura estructurada y mantener un control total sobre mis herramientas de trabajo.
 
 - 🍏 **Entorno:** Disfruto combinando el poder y libertad de **Linux** con la estética y fluidez del ecosistema **Apple**.
-- 🚀 **Objetivo:** Convertirme en un desarrollador **Full Stack** capaz de construir productos de principio a fin.
+- 🚀 **Objetivo:** Convertirme en un desarrollador **Full Stack** capaz de construir productos de principio a fin, como mi proyecto en Java *LonjaEvents*.
 - 🎬 **Pasiones:** Además de la programación, me encanta mantenerme activo con el deporte y soy un gran aficionado a la **edición de vídeo**.
+- 🌱 **Aprendiendo:** Perfeccionando mis habilidades en Java, JavaScript, y adentrándome en tecnologías modernas de la web.
 
 <br>
 
 <div align="center">
-  <h2>Stack Tecnológico</h2>
+  <h2>🛠️ Stack Tecnológico</h2>
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,firebase,apple,c,css,html,github,linux,mysql,notion,vscode&theme=dark&perline=7" alt="Stack Tecnológico" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,firebase,apple,c,css,html,github,linux,mysql,notion,vscode,java&theme=dark&perline=8" alt="Stack Tecnológico" />
+  </a>
 </p>
 
 <br>
 
 <div align="center">
-  <h2>¡Conectemos!</h2>
+  <h2>📊 Mis Estadísticas</h2>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dariocano020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariocano020&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dariocano020/dariocano020/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<br>
+
+<div align="center">
+  <h2>📬 ¡Conectemos!</h2>
 </div>
 
 <p align="center">
