@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="bongo-cat.gif" width="400" alt="Programming Cat" />
+  <img src="professional_coder.gif" width="450" alt="Professional Coder" style="border-radius: 10px;" />
   <br><br>
 
   <video src="https://github.com/dariocano020/dariocano020/raw/main/memoji.mp4" autoplay loop muted playsinline width="180"></video>
@@ -7,7 +7,7 @@
   <h1>¡Hola! Soy Darío Caño <img src="waving.gif" width="40" alt="Hola" align="center" /></h1>
   
   <a href="https://github.com/dariocano020">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EA4335&center=true&vCenter=true&width=500&lines=Estudiante+de+DAW+👨‍💻;Desarrollador+Full+Stack+🚀;Apasionado+por+Apple+y+Linux+🍏🐧" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EA4335&center=true&vCenter=true&width=600&lines=Estudiante+de+DAW;Desarrollador+Full+Stack;Apasionado+por+Apple+y+Linux" alt="Typing SVG" />
   </a>
 </div>
 
