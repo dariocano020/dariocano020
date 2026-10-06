@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.jpg" width="800" alt="Banner" style="border-radius: 15px;" />
+  <img src="bongo-cat.gif" width="400" alt="Programming Cat" />
   <br><br>
 
   <video src="https://github.com/dariocano020/dariocano020/raw/main/memoji.mp4" autoplay loop muted playsinline width="180"></video>
@@ -9,12 +9,6 @@
   <a href="https://github.com/dariocano020">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EA4335&center=true&vCenter=true&width=500&lines=Estudiante+de+DAW+👨‍💻;Desarrollador+Full+Stack+🚀;Apasionado+por+Apple+y+Linux+🍏🐧" alt="Typing SVG" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="coding_aesthetic.gif" width="600" style="border-radius: 10px;" />
 </div>
 
 <br>
